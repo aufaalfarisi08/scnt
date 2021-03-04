@@ -1,0 +1,2 @@
+# scnt
+Test bot
